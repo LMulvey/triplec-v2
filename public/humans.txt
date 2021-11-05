@@ -1,0 +1,16 @@
+/* DEVELOPMENT TEAM */
+Designed & Developed: Lee Mulvey
+Site: http://www.leemulvey.com
+Twitter: http://www.twitter.com/leemulvey
+Github: http://www.github.com/LMulvey 
+Location: Calgary, Canada
+
+/* THANKS */
+Alora & Georgia!
+
+/* SITE */
+Last update: 2021/11/06
+Frameworks: Next.js, React
+Software: VSCode, Photoshop, 
+and Illustrator
+Hardware: A M1 MBP!
